@@ -4,6 +4,11 @@
     <meta charset="utf-8"/>
     <title>Login</title>
     <link rel="stylesheet" href="style.css"/>
+      <style>
+        body {
+         background-image: url('https://as1.ftcdn.net/v2/jpg/01/53/97/96/1000_F_153979609_i6SGjTHQdBknuxRcgtnVvx8G1ezK9Xoi.jpg');
+        }
+</style>
 </head>
 <body>
 <?php
